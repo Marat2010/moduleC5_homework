@@ -8,10 +8,6 @@ input {
     margin: 10px;
     font-size: large;
     font-weight: bold;
-
-    display: flex;
-    flex-wrap: wrap;
-    width: 500px;
 }
 
 .btn {
@@ -39,12 +35,4 @@ input {
     transform: scale(1.05);
 }
 
-.card {
-    width: 200px;
-    margin: 10px;
-}
 
-.card img {
-    width: 200px;
-    height: 150px;
-}
